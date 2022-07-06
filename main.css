@@ -7,8 +7,6 @@ h1 {
     font-size: 45px;
 }
 
-
-
 .donate {
     background-image: url(images/donation13.jpg);
     background: linear-gradient();
@@ -67,13 +65,95 @@ h1 {
     margin-bottom: 20px;
 }
 
-.heading02 {
+#heading02 {
     text-align: center;
 }
 
-#plans {
-    display: flex;
-    padding-left: 20%;
+.plans-area {
+    width:
+
 }
 
-.plan {}
+.fse {
+    float: left;
+    width: 20%;
+    padding: 3% 3% 3% 2%;
+    margin-bottom: 50px;
+
+}
+
+#food {
+    background-color: rgba(213, 241, 232, 0.726);
+    border-radius: 5px;
+    margin-right: 15px;
+    margin-left: 10%;
+}
+
+#shelter {
+    background-color: rgba(247, 223, 223, 0.637);
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+#education {
+    background-color: rgb(240, 225, 207);
+    border-radius: 5px;
+    margin-right: 10%;
+}
+
+#last-heading {
+    text-align: center;
+}
+
+.from {
+    display: flex;
+    background-color: rgb(247, 243, 189);
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 5px;
+    margin-bottom: 100px;
+
+
+}
+
+#email {
+    font-size: 20px;
+    color: gray;
+}
+
+#subscribe {
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    padding: 7px 15px;
+    margin: 0%;
+    border: 0ch;
+
+}
+
+footer {
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 0%;
+    font-family: 'Pacifico', cursive;
+    background-color: black;
+    height: 120px;
+
+}
+
+footer h2 {
+    padding-top: 20px;
+    color: red;
+}
+
+footer p {
+    color: white;
+    padding-bottom: 10px;
+}
+
+#div-footer {
+    height: 100%;
+}
